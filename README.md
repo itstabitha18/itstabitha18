@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itstabitha18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in programming, networking, coding and making new things
+- 🌱 I’m currently learning python,   C++, and Java script
 - 💞️ I’m looking to collaborate on ...computer issues
 - 📫 How to reach me ... dorcaslusajo7@gmail.com
 
